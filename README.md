@@ -23,7 +23,7 @@ git submodule update
 npm install
 
 ### 로컬 개발환경에서 실행하기:
-`npm run server-kr` 명령어로 개발 서버를 띄우고 http://localhost:8081에서 확인 가능
+`npm run server-kr` 명령어로 개발 서버를 띄우고 http://localhost:38473/에서 확인 가능
 
 `npm run build` 명령어로 `./public/` 경로에 정적 페이지 결과물이 빌드
 
@@ -33,7 +33,7 @@ npm install
 ### 자동 배포:
 [travis-ci](https://travis-ci.org/awskrug/eks-workshop)를 이용한 자동 배포
 
-참고 링크 : https://github.com/awskrug/eks-workshop/blob/master/.travis.yml 
+참고 링크 : https://github.com/awskrug/eks-workshop/blob/master/.travis.yml
 
 
 ### 한글화 작업중
